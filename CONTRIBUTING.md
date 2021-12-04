@@ -71,7 +71,7 @@ before you add it up in the form or before working.
 12. It might take **a day or two** to review your pull request. Please have patience and be nice.
 18. Participants / contributors have to complete issues before the decided Deadline. If you fail to make a PR within the deadline, then the issue will be assigned to 
 another person in the queue.
-17. While making PRs, use the PR template (https://github.com/neha07kumari/Thief_Detection/blob/main/.github/pullrequest_template.md) and don't forget to **add a description** of your work.
+17. While making PRs, use the [PR template](https://github.com/neha07kumari/Thief_Detection/blob/main/.github/pullrequest_template.md) and don't forget to **add a description** of your work.
 18. Include issue number (Fixes:issuenumber) in your commit message while creating a pull request.
 19. Make sure your solution to any issue is better in terms of performance and other parameters in comparison to the previous work.
 20. We all are here to learn. You are allowed to make mistakes. That's how you learn, right!.
