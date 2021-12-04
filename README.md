@@ -1,7 +1,7 @@
 # Welcome to Thief Detection 👋
 
 <p align="center">
-<img src="https://github.com/neha07kumari/Thief_Detection/tree/main/Readme_Assets/Thief-Detection.png"></a>
+<img src="https://www.insureon.com/-/jssmedia/blog/posts/2019/photo_burglar-opening-door.jpg?h=370&iar=0&w=750&rev=794702e7689f401fbad606b4776261e3"></a>
 </p>
 
 <p align="center">
