@@ -50,9 +50,11 @@ You can find the overall project idea and description [here](https://github.com/
 <h2>🔑Tech Stacks</h2>
 
 **Programming Languages** : Python, HTML, CSS, Javascript
+
 **Domain Knowledge** : Machine Learning, Computer Vision, Deep Learning, DJango, IoT
 
 **Python software installed** --> You can install it from here if not installed previously - [https://www.python.org/](https://www.python.org/)
+
 **Any python supporting IDE** --> Jupyter Notebook/Google Colab (Only in .ipynb format)
 
 If you would like to raise an issue you can utilize the form provided, do make sure to mention the kind of feature, feature title, short description of the feature and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
