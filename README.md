@@ -25,26 +25,32 @@
 
 <h2>📌Repository</h2>
 
-This project helps to detect whether a person coming to your house is a thief or not , while you are away from your house enjoying your holiday or a trip by sending an alert message and also an attached image of the person in your email address.
-
-<!--## Output: (Email received)
-![Screenshot (394)](https://user-images.githubusercontent.com/47255445/124312918-c2342100-db8d-11eb-8c2a-3c05fce1ecb0.png)
--->
+This project is a Thief Detection WebApp which ensures the safety of your home while you're away or in danger while in the premises. It would be a complete stop solution that makes it more feasible especially in dire circumstances.
 
 Join us in our cause to support a crime free country for the wellbeing of the society!!.. 🚀 
 
 
 <h2> ✔How To Proceed further</h2>
 
+Glad to see your interest in adding your value to this social app. Warm welcome to all and this project accomodates everyone according to the tech stack one belongs to
 
+Express your interest over issues with approach --> Get an issue assigned --> Work on the issue --> Create a PR with issue number --> If changes addressed, resolve it --> Wait for PR to get merged (Kindly be patient as it's a 2 step approval) 
 
 You can find the overall project idea and description [here](https://github.com/neha07kumari/Thief_Detection/blob/main/.github/PROJECT_DESCRIPTION.md)
 
 
+<h2> 👉Features</h2>
+
+- Detects whether a person who is on doorstep is thief or not based on the time consideration parameters and person's behaviour /actions
+- If person is recognized as a thief, it promptly sends out the alert to house owner using notification along with attached image of the person
+- Along with it, it also alerts police stations / protection centers nearest to you with the complete details of the occurence in a timeline
+- Complaint can also be lodged virtually with all the inputs we gain out of the previous services mentioned
+
+
 <h2>🔑Tech Stacks</h2>
 
-Programming Languages : Python, HTML, CSS, Javascript
-Domain Knowledge : Machine Learning, Computer Vision, Deep Learning, DJango, IoT
+**Programming Languages** : Python, HTML, CSS, Javascript
+**Domain Knowledge** : Machine Learning, Computer Vision, Deep Learning, DJango, IoT
 
 **Python software installed** --> You can install it from here if not installed previously - [https://www.python.org/](https://www.python.org/)
 **Any python supporting IDE** --> Jupyter Notebook/Google Colab (Only in .ipynb format)
@@ -172,8 +178,12 @@ This project follows the [Mozilla Public License](https://github.com/neha07kumar
 
 <h2>🙂 Project Admin</h2>
 
-<a href="https://github.com/neha07kumari"><img src="https://avatars.githubusercontent.com/u/47255445?v=4" width=100px height=100px /></a>
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/neha07kumari"><img src="https://avatars.githubusercontent.com/u/47255445?v=4" width="100px;" alt=""/><br /><sub><b>Neha Kumari</b></sub></a></td>   
+  </tr>
+</table>
+
 
 If you liked working on this project, do ⭐ and share this repository.
 
