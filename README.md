@@ -69,7 +69,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 https://neha07kumari.github.io/Thief_Detection/
 
-🎇🎇Must Visit File : [CONTRIBUTING GUIDELINES](https://github.com/neha07kumari/Thief_Detection/blob/main/CONTRIBUTING.md)
+🎇🎇Must Visit Files : [CONTRIBUTING GUIDELINES](https://github.com/neha07kumari/Thief_Detection/blob/main/CONTRIBUTING.md) & [PROJECT DESCRIPTION](https://github.com/neha07kumari/Thief_Detection/blob/main/.github/PROJECT_DESCRIPTION.md)
 
 
 <h2>🛠Template to Follow</h2>
