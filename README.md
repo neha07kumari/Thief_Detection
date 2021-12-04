@@ -110,7 +110,7 @@ This project was a part of these open source programs.
 </table>
 
 
-<h2>🙌Levels & Points (DCP)</h2>
+<h2>🙌Levels & Points (SWOC)</h2>
 
 <table>
   <tr>
