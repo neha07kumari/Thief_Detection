@@ -25,7 +25,7 @@
 
 <h2>📌Repository</h2>
 
-This project is a Thief Detection WebApp which ensures the safety of your home while you're away or in danger while in the premises. It would be a complete stop solution that makes it more feasible especially in dire circumstances.
+This project is a Thief Detection WebApp which ensures the safety of your home while you're away or in danger when residing in the premises. It would be a complete stop solution that makes it more feasible especially in dire circumstances.
 
 Join us in our cause to support a crime free country for the wellbeing of the society!!.. 🚀 
 
