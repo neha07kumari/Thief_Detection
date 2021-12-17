@@ -135,6 +135,10 @@ This project was a part of these open source programs.
   </tr>
   <tr>
     <td>Level 3</td>
+    <td>30</td>
+  </tr>
+   <tr>
+    <td>Level 4</td>
     <td>40</td>
   </tr>
 </table>
