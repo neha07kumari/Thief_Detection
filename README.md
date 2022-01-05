@@ -120,30 +120,14 @@ This project was a part of these open source programs.
 
 <h2>🙌Levels & Points (SWOC)</h2>
 
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>30</td>
-  </tr>
-   <tr>
-    <td>Level 4</td>
-    <td>40</td>
-  </tr>
-</table>
+| Level of Issues | Points Allocated |
+| - | - |
+| Beginner | 10 Points 🔰|
+| Easy | 20 Points 🌱|
+| Medium | 30 Points 🌕|
+| Hard | 40 Points 🔥 |
 
-You can check out your points scored here : **[SWOC_SCORECARD](https://github.com/neha07kumari/Thief_Detection/blob/main/.github/SWOC_SCORECARD.md)** <br>
+You can check out the project leaderboard here : **[SWOC Leaderboard](https://github.com/neha07kumari/Thief_Detection/blob/main/.github/SWOC_SCORECARD.md)** <br>
 
 
 <h2>✨Hall Of Fame</h2>   
